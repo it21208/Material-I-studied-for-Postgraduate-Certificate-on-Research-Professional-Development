@@ -1,0 +1,11 @@
+I did job shadowing for 1 whole day with an external organisation called Newslines in Glasgow.
+The purpose of the job shadowing was to get familiarised with the pipeline of the Newslines company 
+in order to do the following tasks: 
+
+Text processing on media news stream using Python (libraries: nltk, beautiful soup, scikit-learn, pandas, numpy, re, etc.)
+- Understanding the wordpress structure of mysql Newslines DB for schema objects and their relations primary and foreign keys, etc.
+- Extracting the original source links from summary articles.
+- Fetching the HTML (scraping ) content from the source URLs.
+- Extraction of clean text and title of articles found on the WWW to reduce editorial time.
+- Extraction of named events - for classifcation - (text feature extraction, tokenization, build-analysis of text, 
+bag of words representation, common and tf–idf term weighting vectorizer usage, train and test with ML models (lda, svm, etc.) ).
